@@ -62,13 +62,13 @@ To set up and run the project locally:
     print("torch version:", torch.__version__)
     print("matplotlib version:", matplotlib.__version__)
 
-   # Import Required Libraries
-   import numpy as np
-   import torch.nn as nn
-   import torch.optim as optim
-   from sklearn.model_selection import train_test_split
-   from sklearn.preprocessing import StandardScaler 
-   from torch.utils.data import DataLoader, TensorDataset
+    # Import Required Libraries
+    import numpy as np
+    import torch.nn as nn
+    import torch.optim as optim
+    from sklearn.model_selection import train_test_split
+    from sklearn.preprocessing import StandardScaler 
+    from torch.utils.data import DataLoader, TensorDataset
     
     ```
 
