@@ -4,7 +4,6 @@
 - [Technologies Used](#technologies-used)
 - [Prerequisites](#prerequisites)
 - [Installation & How to Run](#installation--how-to-run)
-- [Screenshots / Demo](#screenshots--demo)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -12,7 +11,7 @@
 - [Contact](#contact)
 
 ## Overview
-League of Legends, a popular multiplayer online battle arena (MOBA) game, generates extensive data from matches, providing an excellent opportunity to apply machine learning techniques to real-world scenarios. In this project, I will build a logistic regression model aimed at predicting the outcomes of League of Legends matches.
+League of Legends, a popular multiplayer online battle arena (MOBA) game, generates extensive data from matches, providing an excellent opportunity to apply machine learning techniques to real-world scenarios.
 
 ## Aim of the Project
 The aim of this project is to develop a logistic regression model that can accurately predict the outcomes of League of Legends matches.
@@ -38,8 +37,7 @@ To set up and run the project locally:
 
 2. **Install Dependencies**: Install the required libraries using:
 
-
-   ```
+    ```
     import os
 
     # Change to a stable directory
@@ -68,23 +66,9 @@ To set up and run the project locally:
     from sklearn.model_selection import train_test_split
     from sklearn.preprocessing import StandardScaler 
     from torch.utils.data import DataLoader, TensorDataset
-    
     ```
 
 4. **Run the Jupyter Notebook**: Launch Jupyter Notebook and open `match_predictor.ipynb` to train and evaluate the model.
-
-## Screenshots / Demo
-- **Screenshot 1/ Data Import**:
-  ![Data Import](path/to/screenshot1.png)
-
-- **Screenshot 2/ Data Preprocessing**:
-  ![Data Preprocessing](path/to/screenshot2.png)
-
-- **Screenshot 3/ Model Training**:
-  ![Model Training](path/to/screenshot3.png)
-
-- **Screenshot 4/ Model Evaluation**:
-  ![Model Evaluation](path/to/screenshot4.png)
 
 ## Usage
 After launching the Jupyter Notebook, you can:
