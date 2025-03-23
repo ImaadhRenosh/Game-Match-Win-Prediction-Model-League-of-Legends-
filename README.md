@@ -12,10 +12,10 @@
 - [Contact](#contact)
 
 ## Overview
-League of Legends, a popular multiplayer online battle arena (MOBA) game, generates extensive data from matches, providing an excellent opportunity to apply machine learning techniques to real-world data.
+League of Legends, a popular multiplayer online battle arena (MOBA) game, generates extensive data from matches, providing an excellent opportunity to apply machine learning techniques to real-world scenarios. In this project, I focused on predicting the outcomes of League of Legends matches using in-game statistics and machine learning models.
 
 ## Aim of the Project
-The aim of this project is to develop a logistic regression model that can accurately predict the outcomes of League of Legends matches.
+The aim of this project is to develop a logistic regression model that can accurately predict the outcomes of League of Legends matches. By leveraging various in-game statistics, I aim to provide valuable insights and predictions to enhance the gaming experience.
 
 ## Technologies Used
 - **Programming Language:** Python
