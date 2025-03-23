@@ -37,11 +37,42 @@ To set up and run the project locally:
     ```
 
 2. **Install Dependencies**: Install the required libraries using:
-    ```sh
-    pip install scikit-learn pandas numpy
+
+
+   ```
+    import os
+
+    # Change to a stable directory
+    os.chdir('/home')  # Adjust based on your environment (e.g., '/root' or '/home/jovyan' in some cloud environments)
+
+    # Install required libraries
+    !pip install pandas --user
+    !pip install scikit-learn --user
+    !pip install torch --user
+    !pip install matplotlib --user
+
+    # Verify installations
+    import pandas as pd
+    import sklearn
+    import torch
+    import matplotlib
+    print("Libraries installed successfully!")
+    print("pandas version:", pd.__version__)
+    print("scikit-learn version:", sklearn.__version__)
+    print("torch version:", torch.__version__)
+    print("matplotlib version:", matplotlib.__version__)
+
+   # Import Required Libraries
+   import numpy as np
+   import torch.nn as nn
+   import torch.optim as optim
+   from sklearn.model_selection import train_test_split
+   from sklearn.preprocessing import StandardScaler 
+   from torch.utils.data import DataLoader, TensorDataset
+    
     ```
 
-3. **Run the Jupyter Notebook**: Launch Jupyter Notebook and open `match_predictor.ipynb` to train and evaluate the model.
+4. **Run the Jupyter Notebook**: Launch Jupyter Notebook and open `match_predictor.ipynb` to train and evaluate the model.
 
 ## Screenshots / Demo
 - **Screenshot 1/ Data Import**:
