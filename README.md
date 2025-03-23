@@ -4,6 +4,7 @@
 - [Technologies Used](#technologies-used)
 - [Prerequisites](#prerequisites)
 - [Installation & How to Run](#installation--how-to-run)
+- [Demo](#demo)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -11,7 +12,7 @@
 - [Contact](#contact)
 
 ## Overview
-League of Legends, a popular multiplayer online battle arena (MOBA) game, generates extensive data from matches, providing an excellent opportunity to apply machine learning techniques to real-world scenarios.
+League of Legends, a popular multiplayer online battle arena (MOBA) game, generates extensive data from matches, providing an excellent opportunity to apply machine learning techniques to real-world data.
 
 ## Aim of the Project
 The aim of this project is to develop a logistic regression model that can accurately predict the outcomes of League of Legends matches.
@@ -36,7 +37,6 @@ To set up and run the project locally:
     ```
 
 2. **Install Dependencies**: Install the required libraries using:
-
     ```
     import os
 
@@ -69,6 +69,57 @@ To set up and run the project locally:
     ```
 
 4. **Run the Jupyter Notebook**: Launch Jupyter Notebook and open `match_predictor.ipynb` to train and evaluate the model.
+
+## Demo
+
+### Task 1: Load the League of Legends dataset and preprocess it for training
+- Import necessary libraries (pandas, train_test_split, StandardScaler, torch).
+- Load the dataset using pd.read_csv.
+- Split data into features (X) and target (y).
+- Use train_test_split to split the dataset.
+- Standardize the features using StandardScaler.
+- Convert data to PyTorch tensors.
+
+### Task 2: Implement a logistic regression model using PyTorch
+- Import torch.nn and torch.optim.
+- Define a class LogisticRegressionModel inheriting from nn.Module.
+- Implement __init__ and forward methods.
+- Initialize the model, loss function (nn.BCELoss), and optimizer (optim.SGD).
+
+### Task 3: Train the logistic regression model on the dataset
+- Implement the train loop for a specified number of epochs.
+- Make predictions and calculate the loss.
+- Perform backpropagation and update the model parameters.
+- Evaluate the model and print accuracy on training and testing sets.
+
+### Task 4: Implement optimization techniques and evaluate the model's performance
+- Implement L2 regularization in the optimizer (weight_decay parameter).
+- Retrain the model with the same training loop.
+- Evaluate the optimized model on training and testing sets.
+
+### Task 5: Visualize the model's performance and interpret the results
+- Import necessary libraries (matplotlib.pyplot, confusion_matrix, classification_report, roc_curve, auc).
+- Generate and plot the confusion matrix.
+- Print the classification report.
+- Plot the ROC curve and calculate the AUC.
+
+### Task 6: Save and load the trained model
+- Use torch.save to save the model's state dictionary.
+- Use torch.load to load the state dictionary into a new model instance.
+- Set the loaded model to evaluation mode.
+- Evaluate the loaded model and ensure consistent performance.
+
+### Task 7: Perform hyperparameter tuning to find the best learning rate
+- Define a list of learning rates to test.
+- Reinitialize the model and optimizer for each learning rate.
+- Train and evaluate the model for each learning rate.
+- Print the best learning rate and corresponding test accuracy.
+
+### Task 8: Evaluate feature importance to understand the impact of each feature on the prediction
+- Extract the weights from the linear layer.
+- Create a DataFrame with feature names and their corresponding importance.
+- Sort the DataFrame by importance.
+- Plot the feature importance using a bar plot.
 
 ## Usage
 After launching the Jupyter Notebook, you can:
