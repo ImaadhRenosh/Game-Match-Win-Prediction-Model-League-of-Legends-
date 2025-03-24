@@ -75,17 +75,20 @@ To set up and run the project locally:
 
 
 ### Task 1: Load the League of Legends dataset and preprocess it for training
+
 <img width="1005" alt="Screenshot 2025-03-24 at 05 58 33" src="https://github.com/user-attachments/assets/a483e73a-1618-4a02-976a-c0ad4c50311b" />
 <img width="777" alt="Screenshot 2025-03-24 at 05 59 26" src="https://github.com/user-attachments/assets/df41475a-943c-4001-a9a6-af0e46e4a9e6" />
-<img width="284" alt="Screenshot 2025-03-24 at 05 59 48" src="https://github.com/user-attachments/assets/e699b09c-ab9d-4f65-a2d3-9167c6eed49e" />
-
+<img width="267" alt="Screenshot 2025-03-24 at 06 00 44" src="https://github.com/user-attachments/assets/554bdf5c-a993-4308-a568-4870abe535d2" />
+<img width="721" alt="Screenshot 2025-03-24 at 06 08 41" src="https://github.com/user-attachments/assets/5b15e6f9-d21b-47af-abcd-27e827a75da2" />
 
 
 ### Task 2: Implement a logistic regression model using PyTorch
-- Import torch.nn and torch.optim.
-- Define a class LogisticRegressionModel inheriting from nn.Module.
-- Implement __init__ and forward methods.
-- Initialize the model, loss function (nn.BCELoss), and optimizer (optim.SGD).
+
+<img width="1009" alt="Screenshot 2025-03-24 at 06 06 38" src="https://github.com/user-attachments/assets/a8d5ea0a-f73a-4cce-b6e1-dbcd088e9f5b" />
+<img width="534" alt="Screenshot 2025-03-24 at 06 10 38" src="https://github.com/user-attachments/assets/9ba45d85-2d11-467d-8b9a-81e035cd8aa9" />
+
+
+
 
 ### Task 3: Train the logistic regression model on the dataset
 - Implement the train loop for a specified number of epochs.
