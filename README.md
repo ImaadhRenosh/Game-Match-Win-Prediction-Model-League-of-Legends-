@@ -112,10 +112,12 @@ To set up and run the project locally:
 <img width="854" alt="Screenshot 2025-03-25 at 04 22 50" src="https://github.com/user-attachments/assets/7e78403e-e2ac-4b60-b90d-d7ba8ddd9400" />
 <img width="905" alt="Screenshot 2025-03-25 at 04 23 33" src="https://github.com/user-attachments/assets/3c9bd463-2519-42f6-9a22-df5546a14871" />
 <img width="608" alt="Screenshot 2025-03-25 at 04 24 58" src="https://github.com/user-attachments/assets/ba93455f-eb0e-4c30-81ca-48d9f7aa595c" />
+<img width="593" alt="Screenshot 2025-03-25 at 04 25 22" src="https://github.com/user-attachments/assets/476e2e6c-6afa-42ea-98d1-e7772636488e" />
 
 ### Task 6: Save and load the trained model
 
-<img width="593" alt="Screenshot 2025-03-25 at 04 25 22" src="https://github.com/user-attachments/assets/476e2e6c-6afa-42ea-98d1-e7772636488e" />
+
+<img width="978" alt="Screenshot 2025-03-25 at 04 52 32" src="https://github.com/user-attachments/assets/6eebb217-f6e9-4dcd-87f5-0c3fad32a8ac" />
 <img width="705" alt="Screenshot 2025-03-25 at 04 31 06" src="https://github.com/user-attachments/assets/a90b0e52-819d-4ef0-9545-8104ce8d4ad6" />
 <img width="816" alt="Screenshot 2025-03-25 at 04 33 24" src="https://github.com/user-attachments/assets/300b14dc-7365-432f-9710-3eca76fb3ca5" />
 <img width="544" alt="Screenshot 2025-03-25 at 04 33 48" src="https://github.com/user-attachments/assets/e16772a9-fcc7-4523-a4cc-82c1e4f899bb" />
@@ -127,13 +129,17 @@ To set up and run the project locally:
 <img width="737" alt="Screenshot 2025-03-25 at 04 47 18" src="https://github.com/user-attachments/assets/5323d386-0e9b-40b7-bd73-95568beba839" />
 <img width="786" alt="Screenshot 2025-03-25 at 04 47 54" src="https://github.com/user-attachments/assets/578c6da2-0757-46db-9797-32074a9a9689" />
 <img width="666" alt="Screenshot 2025-03-25 at 04 48 34" src="https://github.com/user-attachments/assets/65278e0e-fd9e-452c-9dfc-dd25d9a06dcb" />
-<img width="978" alt="Screenshot 2025-03-25 at 04 52 32" src="https://github.com/user-attachments/assets/6eebb217-f6e9-4dcd-87f5-0c3fad32a8ac" />
 
 
 ### Task 8: Evaluate feature importance to understand the impact of each feature on the prediction
 
 <img width="989" alt="Screenshot 2025-03-25 at 04 54 23" src="https://github.com/user-attachments/assets/074bcb29-2219-4708-bed1-2d1c5485e714" />
 <img width="829" alt="Screenshot 2025-03-25 at 04 55 51" src="https://github.com/user-attachments/assets/fb3961ee-c97c-49ff-ab2c-684e55a51f36" />
+<img width="821" alt="Screenshot 2025-03-25 at 04 57 22" src="https://github.com/user-attachments/assets/d5432173-d965-44cb-b93a-bb5fd9a64b32" />
+<img width="725" alt="Screenshot 2025-03-25 at 04 57 42" src="https://github.com/user-attachments/assets/f35ea01d-67c6-421c-972e-6be4ab8e29d5" />
+<img width="892" alt="Screenshot 2025-03-25 at 04 58 05" src="https://github.com/user-attachments/assets/9cc65d6d-dcf9-4e4c-95dc-78faf27e4d49" />
+<img width="603" alt="Screenshot 2025-03-25 at 04 58 21" src="https://github.com/user-attachments/assets/96f23ac2-c3d4-4fc7-b99e-b0b7de40649a" />
+
 
 
 
