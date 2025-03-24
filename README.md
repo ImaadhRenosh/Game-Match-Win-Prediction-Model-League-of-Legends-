@@ -158,7 +158,7 @@ Contributions are welcome! If you’d like to improve this project, please follo
 4. Open a pull request detailing your changes.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under © IBM Corporation. All rights reserved.
 
 ## Acknowledgements
 - Thanks to the contributors of scikit-learn, pandas, and numpy.
