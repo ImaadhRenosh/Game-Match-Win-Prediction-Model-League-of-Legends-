@@ -94,15 +94,26 @@ To set up and run the project locally:
 
 
 ### Task 3: Train the logistic regression model on the dataset
-- Implement the train loop for a specified number of epochs.
-- Make predictions and calculate the loss.
-- Perform backpropagation and update the model parameters.
-- Evaluate the model and print accuracy on training and testing sets.
+
+<img width="972" alt="Screenshot 2025-03-25 at 03 42 14" src="https://github.com/user-attachments/assets/6f668cff-3f62-4b56-8293-cb6738d3392c" />
+<img width="750" alt="Screenshot 2025-03-25 at 03 42 37" src="https://github.com/user-attachments/assets/548a09c3-922e-42e2-8223-1cba997bc09b" />
+<img width="717" alt="Screenshot 2025-03-25 at 03 46 04" src="https://github.com/user-attachments/assets/0819f79c-2ed2-4cca-80c8-bfb6978e062c" />
+<img width="608" alt="Screenshot 2025-03-25 at 03 49 29" src="https://github.com/user-attachments/assets/16f4068d-611b-4c63-8de6-3df5e1ac5704" />
+<img width="550" alt="Screenshot 2025-03-25 at 03 50 00" src="https://github.com/user-attachments/assets/3cacd50e-8e93-4ba9-887c-59d3d1686c2e" />
+<img width="360" alt="Screenshot 2025-03-25 at 03 50 22" src="https://github.com/user-attachments/assets/103dbd6a-cfad-4740-9813-8cb0a308d84c" />
+
 
 ### Task 4: Implement optimization techniques and evaluate the model's performance
-- Implement L2 regularization in the optimizer (weight_decay parameter).
-- Retrain the model with the same training loop.
-- Evaluate the optimized model on training and testing sets.
+
+<img width="786" alt="Screenshot 2025-03-25 at 03 57 39" src="https://github.com/user-attachments/assets/44422a1b-189d-4d2c-ad6f-c27f005187b6" />
+<img width="814" alt="Screenshot 2025-03-25 at 03 59 19" src="https://github.com/user-attachments/assets/c3fe8515-45bb-41f9-a895-dadf6a729156" />
+<img width="718" alt="Screenshot 2025-03-25 at 03 59 46" src="https://github.com/user-attachments/assets/5b19bfaf-ef83-40a7-8cad-2b3464a250b9" />
+<img width="588" alt="Screenshot 2025-03-25 at 04 00 07" src="https://github.com/user-attachments/assets/0f68cd0c-f4ce-4db1-ba8c-84838645b1f9" />
+
+
+
+
+
 
 ### Task 5: Visualize the model's performance and interpret the results
 - Import necessary libraries (matplotlib.pyplot, confusion_matrix, classification_report, roc_curve, auc).
