@@ -130,7 +130,6 @@ To set up and run the project locally:
 <img width="786" alt="Screenshot 2025-03-25 at 04 47 54" src="https://github.com/user-attachments/assets/578c6da2-0757-46db-9797-32074a9a9689" />
 <img width="666" alt="Screenshot 2025-03-25 at 04 48 34" src="https://github.com/user-attachments/assets/65278e0e-fd9e-452c-9dfc-dd25d9a06dcb" />
 
-
 ### Task 8: Evaluate feature importance to understand the impact of each feature on the prediction
 
 <img width="989" alt="Screenshot 2025-03-25 at 04 54 23" src="https://github.com/user-attachments/assets/074bcb29-2219-4708-bed1-2d1c5485e714" />
@@ -140,7 +139,9 @@ To set up and run the project locally:
 <img width="892" alt="Screenshot 2025-03-25 at 04 58 05" src="https://github.com/user-attachments/assets/9cc65d6d-dcf9-4e4c-95dc-78faf27e4d49" />
 <img width="603" alt="Screenshot 2025-03-25 at 04 58 21" src="https://github.com/user-attachments/assets/96f23ac2-c3d4-4fc7-b99e-b0b7de40649a" />
 
+### Conclusion
 
+<img width="1007" alt="Screenshot 2025-03-25 at 05 05 06" src="https://github.com/user-attachments/assets/fe26ea23-c306-4ad4-9f1d-ff49b6f8403d" />
 
 
 ## Usage
