@@ -85,11 +85,11 @@ To set up and run the project locally:
 
 <img width="534" alt="Screenshot 2025-03-24 at 06 10 38" src="https://github.com/user-attachments/assets/9ba45d85-2d11-467d-8b9a-81e035cd8aa9" />
 
-Library versions:
+<img width="267" alt="Screenshot 2025-03-24 at 06 00 44" src="https://github.com/user-attachments/assets/554bdf5c-a993-4308-a568-4870abe535d2" />
+
+
 
 <img width="721" alt="Screenshot 2025-03-24 at 06 08 41" src="https://github.com/user-attachments/assets/5b15e6f9-d21b-47af-abcd-27e827a75da2" />
-
-<img width="267" alt="Screenshot 2025-03-24 at 06 00 44" src="https://github.com/user-attachments/assets/554bdf5c-a993-4308-a568-4870abe535d2" />
 
 
 
