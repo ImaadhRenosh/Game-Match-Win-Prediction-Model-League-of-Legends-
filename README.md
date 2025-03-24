@@ -71,14 +71,15 @@ To set up and run the project locally:
 4. **Run the Jupyter Notebook**: Launch Jupyter Notebook and open `match_predictor.ipynb` to train and evaluate the model.
 
 ## Demo
+<img width="1024" alt="Screenshot 2025-03-24 at 05 57 30" src="https://github.com/user-attachments/assets/6bb8147c-2c46-4c14-a9f9-d0a46d3a3520" />
+
 
 ### Task 1: Load the League of Legends dataset and preprocess it for training
-- Import necessary libraries (pandas, train_test_split, StandardScaler, torch).
-- Load the dataset using pd.read_csv.
-- Split data into features (X) and target (y).
-- Use train_test_split to split the dataset.
-- Standardize the features using StandardScaler.
-- Convert data to PyTorch tensors.
+<img width="1005" alt="Screenshot 2025-03-24 at 05 58 33" src="https://github.com/user-attachments/assets/a483e73a-1618-4a02-976a-c0ad4c50311b" />
+<img width="777" alt="Screenshot 2025-03-24 at 05 59 26" src="https://github.com/user-attachments/assets/df41475a-943c-4001-a9a6-af0e46e4a9e6" />
+<img width="284" alt="Screenshot 2025-03-24 at 05 59 48" src="https://github.com/user-attachments/assets/e699b09c-ab9d-4f65-a2d3-9167c6eed49e" />
+
+
 
 ### Task 2: Implement a logistic regression model using PyTorch
 - Import torch.nn and torch.optim.
