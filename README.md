@@ -81,7 +81,6 @@ To set up and run the project locally:
 
 <img width="267" alt="Screenshot 2025-03-24 at 06 00 44" src="https://github.com/user-attachments/assets/554bdf5c-a993-4308-a568-4870abe535d2" />
 
-
 ### Task 2: Implement a logistic regression model using PyTorch
 
 <img width="1009" alt="Screenshot 2025-03-24 at 06 06 38" src="https://github.com/user-attachments/assets/a8d5ea0a-f73a-4cce-b6e1-dbcd088e9f5b" />
@@ -90,8 +89,6 @@ To set up and run the project locally:
 
 
 <img width="721" alt="Screenshot 2025-03-24 at 06 08 41" src="https://github.com/user-attachments/assets/5b15e6f9-d21b-47af-abcd-27e827a75da2" />
-
-
 
 ### Task 3: Train the logistic regression model on the dataset
 
@@ -102,42 +99,43 @@ To set up and run the project locally:
 <img width="550" alt="Screenshot 2025-03-25 at 03 50 00" src="https://github.com/user-attachments/assets/3cacd50e-8e93-4ba9-887c-59d3d1686c2e" />
 <img width="360" alt="Screenshot 2025-03-25 at 03 50 22" src="https://github.com/user-attachments/assets/103dbd6a-cfad-4740-9813-8cb0a308d84c" />
 
-
 ### Task 4: Implement optimization techniques and evaluate the model's performance
 
 <img width="786" alt="Screenshot 2025-03-25 at 03 57 39" src="https://github.com/user-attachments/assets/44422a1b-189d-4d2c-ad6f-c27f005187b6" />
 <img width="814" alt="Screenshot 2025-03-25 at 03 59 19" src="https://github.com/user-attachments/assets/c3fe8515-45bb-41f9-a895-dadf6a729156" />
 <img width="718" alt="Screenshot 2025-03-25 at 03 59 46" src="https://github.com/user-attachments/assets/5b19bfaf-ef83-40a7-8cad-2b3464a250b9" />
 <img width="588" alt="Screenshot 2025-03-25 at 04 00 07" src="https://github.com/user-attachments/assets/0f68cd0c-f4ce-4db1-ba8c-84838645b1f9" />
-
-
-
-
-
+<img width="1010" alt="Screenshot 2025-03-25 at 04 14 21" src="https://github.com/user-attachments/assets/3f19ee2c-0909-454d-8c05-39b35f6d95fa" />
 
 ### Task 5: Visualize the model's performance and interpret the results
-- Import necessary libraries (matplotlib.pyplot, confusion_matrix, classification_report, roc_curve, auc).
-- Generate and plot the confusion matrix.
-- Print the classification report.
-- Plot the ROC curve and calculate the AUC.
+
+<img width="854" alt="Screenshot 2025-03-25 at 04 22 50" src="https://github.com/user-attachments/assets/7e78403e-e2ac-4b60-b90d-d7ba8ddd9400" />
+<img width="905" alt="Screenshot 2025-03-25 at 04 23 33" src="https://github.com/user-attachments/assets/3c9bd463-2519-42f6-9a22-df5546a14871" />
+<img width="608" alt="Screenshot 2025-03-25 at 04 24 58" src="https://github.com/user-attachments/assets/ba93455f-eb0e-4c30-81ca-48d9f7aa595c" />
 
 ### Task 6: Save and load the trained model
-- Use torch.save to save the model's state dictionary.
-- Use torch.load to load the state dictionary into a new model instance.
-- Set the loaded model to evaluation mode.
-- Evaluate the loaded model and ensure consistent performance.
+
+<img width="593" alt="Screenshot 2025-03-25 at 04 25 22" src="https://github.com/user-attachments/assets/476e2e6c-6afa-42ea-98d1-e7772636488e" />
+<img width="705" alt="Screenshot 2025-03-25 at 04 31 06" src="https://github.com/user-attachments/assets/a90b0e52-819d-4ef0-9545-8104ce8d4ad6" />
+<img width="816" alt="Screenshot 2025-03-25 at 04 33 24" src="https://github.com/user-attachments/assets/300b14dc-7365-432f-9710-3eca76fb3ca5" />
+<img width="544" alt="Screenshot 2025-03-25 at 04 33 48" src="https://github.com/user-attachments/assets/e16772a9-fcc7-4523-a4cc-82c1e4f899bb" />
+
 
 ### Task 7: Perform hyperparameter tuning to find the best learning rate
-- Define a list of learning rates to test.
-- Reinitialize the model and optimizer for each learning rate.
-- Train and evaluate the model for each learning rate.
-- Print the best learning rate and corresponding test accuracy.
+
+<img width="974" alt="Screenshot 2025-03-25 at 04 46 47" src="https://github.com/user-attachments/assets/6cab6cfb-f7f9-452f-97f6-2569905d87ec" />
+<img width="737" alt="Screenshot 2025-03-25 at 04 47 18" src="https://github.com/user-attachments/assets/5323d386-0e9b-40b7-bd73-95568beba839" />
+<img width="786" alt="Screenshot 2025-03-25 at 04 47 54" src="https://github.com/user-attachments/assets/578c6da2-0757-46db-9797-32074a9a9689" />
+<img width="666" alt="Screenshot 2025-03-25 at 04 48 34" src="https://github.com/user-attachments/assets/65278e0e-fd9e-452c-9dfc-dd25d9a06dcb" />
+<img width="978" alt="Screenshot 2025-03-25 at 04 52 32" src="https://github.com/user-attachments/assets/6eebb217-f6e9-4dcd-87f5-0c3fad32a8ac" />
+
 
 ### Task 8: Evaluate feature importance to understand the impact of each feature on the prediction
-- Extract the weights from the linear layer.
-- Create a DataFrame with feature names and their corresponding importance.
-- Sort the DataFrame by importance.
-- Plot the feature importance using a bar plot.
+
+<img width="989" alt="Screenshot 2025-03-25 at 04 54 23" src="https://github.com/user-attachments/assets/074bcb29-2219-4708-bed1-2d1c5485e714" />
+<img width="829" alt="Screenshot 2025-03-25 at 04 55 51" src="https://github.com/user-attachments/assets/fb3961ee-c97c-49ff-ab2c-684e55a51f36" />
+
+
 
 ## Usage
 After launching the Jupyter Notebook, you can:
