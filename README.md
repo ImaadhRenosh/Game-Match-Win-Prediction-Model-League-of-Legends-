@@ -87,9 +87,11 @@ To set up and run the project locally:
 
 Library versions:
 
+<img width="721" alt="Screenshot 2025-03-24 at 06 08 41" src="https://github.com/user-attachments/assets/5b15e6f9-d21b-47af-abcd-27e827a75da2" />
+
 <img width="267" alt="Screenshot 2025-03-24 at 06 00 44" src="https://github.com/user-attachments/assets/554bdf5c-a993-4308-a568-4870abe535d2" />
 
-<img width="721" alt="Screenshot 2025-03-24 at 06 08 41" src="https://github.com/user-attachments/assets/5b15e6f9-d21b-47af-abcd-27e827a75da2" />
+
 
 ### Task 3: Train the logistic regression model on the dataset
 - Implement the train loop for a specified number of epochs.
