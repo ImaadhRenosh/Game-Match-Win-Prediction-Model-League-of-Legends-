@@ -89,6 +89,8 @@ To set up and run the project locally:
   <hr/>
 </div>
 
+<img width="999" alt="Screenshot 2025-03-26 at 04 45 29" src="https://github.com/user-attachments/assets/a0225597-4d0e-4d4a-a529-17b7706e14d7" />
+
 <img width="1009" alt="Screenshot 2025-03-24 at 06 06 38" src="https://github.com/user-attachments/assets/a8d5ea0a-f73a-4cce-b6e1-dbcd088e9f5b" />
 
 <img width="534" alt="Screenshot 2025-03-24 at 06 10 38" src="https://github.com/user-attachments/assets/9ba45d85-2d11-467d-8b9a-81e035cd8aa9" />
