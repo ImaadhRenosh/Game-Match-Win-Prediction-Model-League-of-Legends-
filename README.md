@@ -87,7 +87,6 @@ To set up and run the project locally:
 
 <img width="534" alt="Screenshot 2025-03-24 at 06 10 38" src="https://github.com/user-attachments/assets/9ba45d85-2d11-467d-8b9a-81e035cd8aa9" />
 
-
 <img width="721" alt="Screenshot 2025-03-24 at 06 08 41" src="https://github.com/user-attachments/assets/5b15e6f9-d21b-47af-abcd-27e827a75da2" />
 
 ### Task 3: Train the logistic regression model on the dataset
@@ -101,7 +100,7 @@ To set up and run the project locally:
 
 ### Task 4: Implement optimization techniques and evaluate the model's performance
 
-<img width="786" alt="Screenshot 2025-03-25 at 03 57 39" src="https://github.com/user-attachments/assets/44422a1b-189d-4d2c-ad6f-c27f005187b6" />
+<img width="786" alt="Screenshot 2025-03-25 at 03 57 39" src="https://github.com/user-attachments/assets/44422a1b-189d-4c2c-ad6f-c27f005187b6" />
 <img width="814" alt="Screenshot 2025-03-25 at 03 59 19" src="https://github.com/user-attachments/assets/c3fe8515-45bb-41f9-a895-dadf6a729156" />
 <img width="718" alt="Screenshot 2025-03-25 at 03 59 46" src="https://github.com/user-attachments/assets/5b19bfaf-ef83-40a7-8cad-2b3464a250b9" />
 <img width="588" alt="Screenshot 2025-03-25 at 04 00 07" src="https://github.com/user-attachments/assets/0f68cd0c-f4ce-4db1-ba8c-84838645b1f9" />
@@ -116,12 +115,10 @@ To set up and run the project locally:
 
 ### Task 6: Save and load the trained model
 
-
 <img width="978" alt="Screenshot 2025-03-25 at 04 52 32" src="https://github.com/user-attachments/assets/6eebb217-f6e9-4dcd-87f5-0c3fad32a8ac" />
 <img width="705" alt="Screenshot 2025-03-25 at 04 31 06" src="https://github.com/user-attachments/assets/a90b0e52-819d-4ef0-9545-8104ce8d4ad6" />
 <img width="816" alt="Screenshot 2025-03-25 at 04 33 24" src="https://github.com/user-attachments/assets/300b14dc-7365-432f-9710-3eca76fb3ca5" />
 <img width="544" alt="Screenshot 2025-03-25 at 04 33 48" src="https://github.com/user-attachments/assets/e16772a9-fcc7-4523-a4cc-82c1e4f899bb" />
-
 
 ### Task 7: Perform hyperparameter tuning to find the best learning rate
 
