@@ -73,7 +73,7 @@ To set up and run the project locally:
 ## Demo
 <img width="1024" alt="Screenshot 2025-03-24 at 05 57 30" src="https://github.com/user-attachments/assets/6bb8147c-2c46-4c14-a9f9-d0a46d3a3520" />
 
-<div style="margin-top: 30px; margin-bottom: 30px;">
+<div style="margin-top: 30px">
   <h2>Task 1: Load the League of Legends dataset and preprocess it for training</h2>
   <hr/>
 </div>
@@ -160,7 +160,7 @@ To set up and run the project locally:
 <img width="892" alt="Screenshot 2025-03-25 at 04 58 05" src="https://github.com/user-attachments/assets/9cc65d6d-dcf9-4e4c-95dc-78faf27e4d49" />
 <img width="603" alt="Screenshot 2025-03-25 at 04 58 21" src="https://github.com/user-attachments/assets/96f23ac2-c3d4-4fc7-b99e-b0b7de40649a" />
 
-<div style="margin-top: 30px; margin-bottom: 30px;">
+<div style="margin-top: 30px">
   <h2>Conclusion</h2>
   <hr/>
 </div>
