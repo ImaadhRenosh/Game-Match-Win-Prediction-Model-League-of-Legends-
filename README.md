@@ -89,8 +89,6 @@ To set up and run the project locally:
   <hr/>
 </div>
 
-<img width="999" alt="Screenshot 2025-03-26 at 04 45 29" src="https://github.com/user-attachments/assets/a0225597-4d0e-4d4a-a529-17b7706e14d7" />
-
 <img width="1009" alt="Screenshot 2025-03-24 at 06 06 38" src="https://github.com/user-attachments/assets/a8d5ea0a-f73a-4cce-b6e1-dbcd088e9f5b" />
 
 <img width="534" alt="Screenshot 2025-03-24 at 06 10 38" src="https://github.com/user-attachments/assets/9ba45d85-2d11-467d-8b9a-81e035cd8aa9" />
@@ -116,7 +114,6 @@ To set up and run the project locally:
 
 <img width="1009" alt="Screenshot 2025-03-26 at 04 50 36" src="https://github.com/user-attachments/assets/9ec7a5f3-08c1-4963-8dc1-d69eec8ee1e1" />
 <img width="785" alt="Screenshot 2025-03-26 at 04 51 06" src="https://github.com/user-attachments/assets/ac93d756-a041-4862-9e79-86bc183d346d" />
-<img width="786" alt="Screenshot 2025-03-25 at 03 57 39" src="https://github.com/user-attachments/assets/44422a1b-189d-4c2c-ad6f-c27f005187b6" />
 <img width="814" alt="Screenshot 2025-03-25 at 03 59 19" src="https://github.com/user-attachments/assets/c3fe8515-45bb-41f9-a895-dadf6a729156" />
 <img width="718" alt="Screenshot 2025-03-25 at 03 59 46" src="https://github.com/user-attachments/assets/5b19bfaf-ef83-40a7-8cad-2b3464a250b9" />
 <img width="588" alt="Screenshot 2025-03-25 at 04 00 07" src="https://github.com/user-attachments/assets/0f68cd0c-f4ce-4db1-ba8c-84838645b1f9" />
