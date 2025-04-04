@@ -22,11 +22,6 @@ The aim of this project is to develop a logistic regression model that can accur
 - **Libraries:** scikit-learn, pandas, numpy
 - **Tools:** Jupyter Notebook, Git, VS Code
 
-## Prerequisites
-- Python (version 3.6 or higher)
-- Git
-- Jupyter Notebook
-
 ## Installation & How to Run
 To set up and run the project locally:
 
@@ -68,7 +63,7 @@ To set up and run the project locally:
     from torch.utils.data import DataLoader, TensorDataset
     ```
 
-4. **Run the Jupyter Notebook**: Launch Jupyter Notebook and open `match_predictor.ipynb` to train and evaluate the model.
+3. **Run the Jupyter Notebook**: Launch Jupyter Notebook and open [`Final Project League of Legends Match Predictor.ipynb`](https://github.com/ImaadhRenosh/Game-Match-Win-Prediction-Model-League-of-Legends-/blob/main/Final%20Project%20League%20of%20Legends%20Match%20Predictor.ipynb) to train and evaluate the model.
 
 ## Demo
 <img width="1024" alt="Screenshot 2025-03-24 at 05 57 30" src="https://github.com/user-attachments/assets/6bb8147c-2c46-4c14-a9f9-d0a46d3a3520" />
