@@ -19,7 +19,7 @@ The aim of this project is to develop a logistic regression model that can accur
 
 ## Technologies Used
 - **Programming Language:** Python
-- **Libraries:** scikit-learn, pandas, numpy
+- **Libraries:** PyTorch, OpenCV, Matplotlib, scikit-learn, pandas, numpy, 
 - **Tools:** Jupyter Notebook, Git, VS Code
 
 ## Installation & How to Run
